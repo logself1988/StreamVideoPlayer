@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">流媒体测试程序</string>
+
+    <string name="title_activity_video">视频</string>
+    <string name="videoUrl">请输入视频流地址！</string>
+    <string name="playButton">播放</string>
+    <string name="remember">记住地址</string>
+</resources>
